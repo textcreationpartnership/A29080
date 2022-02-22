@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epitaphe de Charles Second roy de la Grande Bretagne</title>
+            <author>Br., D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29080</idno>
+            <idno type="STC">Wing B4085A</idno>
+            <idno type="STC">ESTC R37450</idno>
+            <idno type="EEBO-CITATION">16958646</idno>
+            <idno type="OCLC">ocm 16958646</idno>
+            <idno type="VID">105459</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1610:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epitaphe de Charles Second roy de la Grande Bretagne</title>
+                  <author>Br., D.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Chez J. de Beaulieu ...,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>MDCLXXXV [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signed at end: Traduit exactement du Latin par l'autheur-même, D. Br.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="frm">frm</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <body>
+         <div type="epitaph">
+            <pb facs="tcp:105459:1"/>
+            <head>EPITAPHE DE CHARLES SECOND</head>
+            <byline>Roy de la Grande Bretagne.</byline>
+            <lg>
+               <l>AH! ce titre luy ſeul remet tout en memoire!</l>
+               <l>Pourquoy dans le detail penetrer plus à fond?</l>
+               <l>N'eſt-ce pas avoir fait vne aſſez longue hiſtoire,</l>
+               <l>Que d'avoir ſeulement nommé <hi>Charles Second?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Roy donna-t'il jamais au thróne plus de luſtre?</l>
+               <l>Et dans l'art de regner cede-t'il aux plus grands?</l>
+               <l>Tant d'incidens fameux rendent ſon regne illuſtre,</l>
+               <l>Qu'au moins à cet egard il marche aux premiers rangs.</l>
+            </lg>
+            <lg>
+               <l>A la fleur de ſon âge il recoit la couronne,</l>
+               <l>Digne heritier d'vn Pere, immolé pour la foy;</l>
+               <l>Et ſi l'on s'êtoit pu ſaiſir de ſa perſonne,</l>
+               <l>Luy-méme etoit Martyr en méme temps que Roy.</l>
+            </lg>
+            <lg>
+               <l>C'eſt parvn coup du ciel qu'il echappe aux Rebelles,</l>
+               <l>Triomphant du danger quand l'ennemy le bat;</l>
+               <l>Et ſans la trahiſon de troupes infidelles,</l>
+               <l>Il n'euſt pas êté moins le maitre du combat.</l>
+            </lg>
+            <lg>
+               <l>Ne voyant plus icy que rage, ou perfidie,</l>
+               <l>Ce Prince cherche ailleurs vn plus paiſible ſort;</l>
+               <l>Il y trouve en effet ſureté pour ſa vie,</l>
+               <l>Mais qui ne valoit pas beaucoup mieux que la mort.</l>
+            </lg>
+            <lg>
+               <l>Prés de quinze ans il court &amp; la mer &amp; la terre,</l>
+               <l>Ayant deux fois en vain attenté ſon retour;</l>
+               <l>Et ne pouvant domter ſes Peuples par la guerre,</l>
+               <l>Il eſpere en ſouffrant les domter quelque jour.</l>
+            </lg>
+            <lg>
+               <l>Enfin il en triomphe; &amp; les vaincus, eux-mêmes,</l>
+               <l>Par leur ſoumiſſion vainquent ſi bien leurs maux,</l>
+               <l>Qu'en le retabliſſant dans ſes honneurs ſuprémes,</l>
+               <l>On voit tout retably, Foy, Majeſté, Repos.</l>
+            </lg>
+            <lg>
+               <l>S'il changea de conduite en changeant de fortune,</l>
+               <l>C'eſt qu'il fit plus de bien qu'il n'avoit fait encor:</l>
+               <l>Jamais il ne trouva de requeſte importune,</l>
+               <l>Et ſon coeur fut toujours plus grand que ſon treſor.</l>
+            </lg>
+            <lg>
+               <l>Le plaiſir qu'il avoit d'enrichir tout le monde,</l>
+               <l>Luy faiſoit oublier le mal de s'appauvrir;</l>
+               <l>Et comme en bons deſirs ſon ame etoit feconde,</l>
+               <l>Sa bouche avoit au moins de quoy nous ſecourir.</l>
+            </lg>
+            <lg>
+               <l>Quelqu'affligé qui vint luy dire ſa miſere,</l>
+               <l>
+                  <hi>Vuide,</hi> ou <hi>triſte,</hi> jamais revint-il ſur ſes pas?</l>
+               <l>Et méme en refuſant ne ſceut-il pas nous plaire,</l>
+               <l>Plus que d'autres ne font en ne refuſant pas?</l>
+            </lg>
+            <lg>
+               <l>Il fut <hi>du Genre Humain</hi> apellé <hi>les delices,</hi>
+               </l>
+               <l>Et c'eſt par ſa douceur qu'il l'avoit merité;</l>
+               <l>D'un regne imperieux bien loin d'avoir les vices,</l>
+               <l>Ses moeurs ne firent voir que trop d'humanité!</l>
+            </lg>
+            <lg>
+               <l>Juſque dans le ſoleil, des taches s'y rencontrent:</l>
+               <l>Charles n'eut qu'vn defaut; il eut mille vertus;</l>
+               <l>Et ſi dignes de luy toutes même ſe montrent,</l>
+               <l>Qu' à peine connoiſt-on celle qui l'eſt le plus.</l>
+            </lg>
+            <lg>
+               <l>Dans la proſperité ſa Modeſtie etonne;</l>
+               <l>Sa Force donne ailleurs autant d'etonnement:</l>
+               <l>S'il punit quelquefois, ſi cent fois il pardonne,</l>
+               <l>Et Clemence, &amp; Juſtice, etonne egalement.</l>
+            </lg>
+            <lg>
+               <l>De toutes ſes vertus trop de bien peut-on dire,</l>
+               <l>Quand chacune ſe fait admirer à l'envy?</l>
+               <l>Plus que toutes pourtant ſa Prudence on admire,</l>
+               <l>Comme on ſait qu'en effet elle à le plus ſervy.</l>
+            </lg>
+            <lg>
+               <l>Aux temps les plus fáeheux ce Roy prudent &amp; ſage,</l>
+               <l>N'employa qu'elle ſeule a ſauver ſes Etas,</l>
+               <l>Et quand l'Europe <hi>etoit,</hi> ou <hi>couroit,</hi> au pillage,</l>
+               <l>L'Angleterre eut l'honneur de ne s'y trouver pas.</l>
+            </lg>
+            <lg>
+               <l>Dedans comme dehors le danger fut extrême;</l>
+               <l>D'inteſtines fureurs nous l'avoient rendu tel</l>
+               <l>Qu'à moins de l'arreſter par la prudence-même,</l>
+               <l>Tout remede n'euſt fait que le rendre mortel.</l>
+            </lg>
+            <lg>
+               <l>Ce Prince, non content de ſauver l'Angleterre,</l>
+               <l>Sauva toute l'Europe en procurant ſa paix;</l>
+               <l>Et deſarma deux fois (ſans luy faire la guerre)</l>
+               <l>Le Roy le plus puiſſant que la France eut jamais.</l>
+            </lg>
+            <lg>
+               <l>C'eſt ainſy que partout, en depit de l'envie,</l>
+               <l>Chez les plus Etrangers ſon nom fut reſpecté;</l>
+               <l>Lorsqu'entre ſes ſujets, contre ſa propre vie,</l>
+               <l>On en a Vû ſouvent avoir même attenté.</l>
+            </lg>
+            <lg>
+               <l>Mais qu'admirer le plus? ou ces coeurs infidelles,</l>
+               <l>Ou la grandeur du ſien, qui fut juſqu'à ce point</l>
+               <l>Qu'en nous voyant pourluy tant defrayeurs mortelles,</l>
+               <l>Dans ſon propre danger luy ſeul ne craignoit point.</l>
+            </lg>
+            <lg>
+               <l>Craindroit-il d'vn complot la malice profonde,</l>
+               <l>Dont à peinc jamais il crut la láchete,</l>
+               <l>Ne penſant point avoir d'Ennemis dans le monde,</l>
+               <l>Non plus que de perſonne il ne l'avoit êté.</l>
+            </lg>
+            <lg>
+               <l>Ne pouvant donc hair, dut-il jamais deplaire?</l>
+               <l>Il eſt vray qu'il avoit la Majeſté d'vn Roy;</l>
+               <l>Mais ne montra-t'il pas les entrailles d'vn Pere,</l>
+               <l>Juſqu'à des Etrangers qui ſouffroient pour la foy?</l>
+            </lg>
+            <lg>
+               <l>Que de jours, que de nuits, ſes bontez toujours preſtes</l>
+               <l>Troublerent ſon repos pour nous faire du bien!</l>
+               <l>Et voyant le danger qui menacoit nos teſtes,</l>
+               <l>N'en prit-il pas cent fois plus de ſoin que du ſien?</l>
+            </lg>
+            <lg>
+               <l>S'il ne put empeſcher des miſeres publiques,</l>
+               <l>Au moins en fit-il voir vn regret ſans egal,</l>
+               <l>Faiſant méme ſortir de ſes mains magnifiques</l>
+               <l>Des ſecours qui ſouvent en reparoient le mal.</l>
+            </lg>
+            <lg>
+               <l>Que de malheurs, helas! ſous le meilleur des Princes,</l>
+               <l>Du bonheur qu'il cauſoit nous ſont venu priver!</l>
+               <l>Et quand de mille biens il combloit les Provinces,</l>
+               <l>Quels maux n'y vit-on pas l'vn ſur l'autre arriver.</l>
+            </lg>
+            <lg>
+               <l>Mais, prodige etonnant! aprés qu'à cette outrance,</l>
+               <l>Guerre, Peſte, Incendie, ont deſolé l'Etat,</l>
+               <l>On y voit tant de paix, de peuple, &amp; d'abondance,</l>
+               <l>Que jamais il ne fut dans vn plus haut eclat!</l>
+            </lg>
+            <lg>
+               <l>Pourquoy de ce prodige avoir l'ame ſurpriſe,</l>
+               <l>L'ayant vû ſous vn Roy, ſage &amp; bon comme luy,</l>
+               <l>Qui protegea les Loix, qui protegea l'Egliſe,</l>
+               <l>Et Celle vniquement dont les Loix ſont l'appuy?</l>
+            </lg>
+            <lg>
+               <l>S'il eſt rien d'etonnant que l'Eſprit y remarque,</l>
+               <l>C'eſt d'avoir tant de fois vu l'Etat en langueur,</l>
+               <l>Quand ces Loix, cette Egliſe, &amp; méme ce Monarque,</l>
+               <l>Subſiſtoient parmy nous dans toute leur vigueur.</l>
+            </lg>
+            <lg>
+               <l>Ce fait, tout grand qu'il eſt, n'eſt pas méme admirable;</l>
+               <l>Il faut de bons ſujets pour aimer ces beaux noms;</l>
+               <l>Et ſi l'on put haïr le Roy le plus aimable,</l>
+               <l>Il en fut trop, helas! qui ne l'étoient pas bons!</l>
+            </lg>
+            <lg>
+               <l>Quand tous les gens de bien ont pour luy des tendreſſes,</l>
+               <l>Quel honneur que pour luy le reſte ait de l'horreur!</l>
+               <l>Ils l'aimeroient aſſez, ſi changeant ſes carreſſes,</l>
+               <l>Pour eux contre les bons il s'armoit de fureur.</l>
+            </lg>
+            <lg>
+               <l>S'il euſt renversé tout, en cherchant à leur plaire,</l>
+               <l>Sa memoire à jamais ils auroient honoré;</l>
+               <l>Ou ſi des drois du throne il euſt exclus <hi>ſon Frere,</hi>
+               </l>
+               <l>Pour cet exploit luy ſeul ils l'auroient adoré.</l>
+            </lg>
+            <lg>
+               <l>Ne s'eſt-il pas rendu cependant plus auguſte,</l>
+               <l>En faiſant aprés luy regner vn Roy ſur nous,</l>
+               <l>De qui non ſeulement le ſeul tître étoit juſte,</l>
+               <l>Mais qui s'en eſt montré le plus digne de tous.</l>
+            </lg>
+            <lg>
+               <l>O! qui n'aimeroit pas ſon heureuſe memoire,</l>
+               <l>Puiſque durant ſa vie il a méme pris ſoin</l>
+               <l>Que ſa mort, qui devoit arreſter notre gloire,</l>
+               <l>Par vn <hi>tel ſucceſſeur</hi> la fiſt aller plus loin!</l>
+            </lg>
+            <lg>
+               <l>Ce qui rendit ſa mort plus digne de nos larmes,</l>
+               <l>Fut ce grand ſoin qu'il prit de nous en conſoler;</l>
+               <l>Et plus notre douleur trouve en <hi>Jacques</hi> de charmes,</l>
+               <l>Plus <hi>Charles</hi> en mourant nous a du deſoler.</l>
+            </lg>
+            <lg>
+               <l>Rien n'en conſola mieux que ſes ferveurs chretiennes,</l>
+               <l>Lorſqu'achevant ſes jours par mille faints regrés,</l>
+               <l>(Les Eveſques joignans leurs prieres aux ſiennes)</l>
+               <l>Il mourut plein de foy, d'eſperance, &amp; de paix.</l>
+            </lg>
+            <lg>
+               <l>C'etoit ſur le declin du ſiecle dix ſeptiéme;</l>
+               <l>Onze luſtres entiers il n'avoit pas vecu;</l>
+               <l>Trente ſix ans huit iours il eut le diadéme,</l>
+               <l>Et fut méme en ſa mort plus vainqueur que vaincu.</l>
+            </lg>
+            <lg>
+               <l>Toute vne eternité dans le ciel il va vivre,</l>
+               <l>Sans voir à ſes plaiſirs meſler aucun ſoucy;</l>
+               <l>Et Dieu, qui par ſon Chriſt luy-méme le delivre,</l>
+               <l>L'y fait deja regner bien plus heureux qu'icy.</l>
+            </lg>
+            <lg>
+               <l>Ce n'eſt pas que ce Prince, en partant de la terre,</l>
+               <l>Ne nous y laiſſe encor quelque choſe de ſoy;</l>
+               <l>Et l'on verra toujours qu'il Regne en Angleterre,</l>
+               <l>Tandis qu'vn ſi <hi>bon Frere</hi> en demeure le Roy.</l>
+            </lg>
+            <byline>Traduit exactement du Latin Par l'Autheur-même.</byline>
+            <closer>
+               <signed>D. Br.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>A LONDRES</hi> Chez <hi>J. de Beaulieu</hi> deuant <hi>L'Egliſe de</hi> St. <hi>Martin.</hi> MDCLXXXV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
